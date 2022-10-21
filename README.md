@@ -103,7 +103,7 @@ A data-driven approach to the design and operation of IPFS and libp2p through ri
 | TBD | TBD| TBD | TBD |
 
 
-## [libp2p Privacy](libp2p%20Privacy) // YouTube Playlist (Will be linked after recordings are created)
+## [Libp2p Privacy](Libp2p%20Privacy) // YouTube Playlist (Will be linked after recordings are created)
 Dive into the current privacy work happening on libp2p and get the chance to provide feedback on direction and next steps and hear from experts in the field.
 | Topic | Speaker | Description | Recording |
 | :---- | :---: | :---------- | :-------- |
