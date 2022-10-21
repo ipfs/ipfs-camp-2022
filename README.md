@@ -162,4 +162,4 @@ You can upload photos, videos, documents, etc. at **INSERT HOW TO CONTRIBUTE HER
 
 The schedule for the event can be found at **https://2022.ipfs.camp/#schedule**
 
-Join other campers and chat on our Slack! **INSERT A WAY TO JOIN HERE**
+Join other campers and chat on the [IPFS Camp Slack](https://join.slack.com/t/ipfs-camp/shared_invite/zt-1gh6dc0ua-T0oVLSHNkvteGheH7cyiDg)!
