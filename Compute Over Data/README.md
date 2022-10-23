@@ -7,7 +7,7 @@ How do we make the results useful and discoverable? In this track, see what othe
 ## Track Schedule
 
 | Start Time | Topic | Speaker | Description | Recording |
-| :------:   | :---- | :-----: | :---------- | :-------- |
+| :------:   | :---- | :-----: | :---------- | :-------: |
 | 10:00 | Keynote & Overview Survey | David Aronchik, Wes Floyd |  | Video<br>Slides |
 | 10:30 | Warpforge — Hashes go in, hashes come out, exec in the middle! | Eric Evenchick |  | Video<br>Slides |
 | 11:00 | Bacalhau — Bringing the Compute to the Data! | David Aronchik, Wes Floyd |  | Video<br>Slides |
