@@ -17,5 +17,3 @@ How do we make the results useful and discoverable? In this track, see what othe
 | 13:00 | Lunch Break |  |  | Video<br>Slides |
 
 ## Content:
-
-## Recording:
