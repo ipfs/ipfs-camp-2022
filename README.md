@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://2022.ipfs.camp/">
-    <img src="https://bafybeifwb3lns4dtct4qgfxjbmzcjzgki2pyul25mcrtha72s4lvf6mzvy.ipfs.dweb.link/" alt="IPFS Camp Banner" width="500" />
+    <img src="https://bafybeifwb3lns4dtct4qgfxjbmzcjzgki2pyul25mcrtha72s4lvf6mzvy.ipfs.dweb.link/" alt="IPFS Camp Banner" style="width:60%;" />
   </a>
 </p>
 <br/>
