@@ -1,71 +1,29 @@
-
 # IPFS operators and enterprise
 
 Explore applications & deployments of IPFS in large scale cloud & enterprise use cases, with talks from IPFS operators about their experiences and best practices.
 
 ## Track Schedule
-Schedule
-TIME	SPEAKER	INFO
-09:50	Cory Schwartz	Track Introduction
-Welcome!
 
+| Start Time | Topic | Speaker | Description | Recording |
+| :------:   | :---- | :-----: | :---------- | :-------: |
+| 09:50 | Track Introduction | Cory Schwartz | Welcome! | Video<br>Slides |
+| 10:00 | Build the web we want | Sara Freenan (Consensys) | Recently, we deprecated our public gateway and it came to light that creators<br>had been using our public gateway url, along with the CID, in their NFT<br>metadata, instead of using the CID. <br><br>I would like to take this opportunity to remind people that IPFS is about building<br>a decentralised web that is not beholden to one company or organisation. CIDs are<br>content identifiers, not resource locators. The beauty of the protocol is that the<br>content can be found on the network using the CID via the cooperation of the node<br>providers, and the built in redundancy of the protocol. <br><br>The decentralised and resilient web we want will rely on people embedding these new<br>patterns into whatever they create and build on top of the protocol and we at Infura<br>want to help in whatever way we can.<br> | Video<br>Slides |
+| 10:35 | break |  |  | Video<br>Slides |
+| 10:40 | Protecting IPFS gateways at scale | Matt Ober (Pinata) | IPFS gateways are an important portal into the IPFS network, but running publicly<br>accessible IPFS gateways comes with great risk and responsibility. In this talk Matt<br>will discuss common challenges that IPFS gateway operators will encounter and how<br>Pinata has solved for them.<br> | Video<br>Slides |
+| 11:15 | break |  |  | Video<br>Slides |
+| 11:20 | Secure your IPFS website | Thibault Meunier (Cloudflare) | For wallets, decentralized exchanges, DeFi insurer, or DAO management, most IPFS<br>applications are relying on HTTP. This setup allows applications to be accessible by<br>current web users, with minimal modifications. It also enables developers to leverage<br>common web engineering practice. However, these HTTP endpoints have to be secured, and<br>trust provided by the decentralized-network has to be carried to end-users. HTTPS is<br>not enough. This talk will present the setup of a browser based IPFS app.<br> | Video<br>Slides |
+| 11:55 | break |  |  | Video<br>Slides |
+| 12:00 | Bridging the worlds - the care and feeding of IPFS Gateways | Mario Camou (Protocol Labs) | For several years, Protocol Labs has operated one of the busiest public IPFS gateways in the world, ipfs.io. During that time we have learned a few things about their care and feeding. In this presentation, Mario will share some of the practices that we have implemented to ensure that our gateways are healthy and useful.<br> | Video<br>Slides |
+| 12:40 | Fleek Network - Decentralized Content and Application Delivery Network | Mahmoud Shehata (fleek) |  | Video<br>Slides |
+| 13:00 | Lunch |  |  | Video<br>Slides |
+| 14:00 | Introducing Saturn, web3 CDN | Ansgar Grunseid (saturn) | Saturn is a Web3 CDN in Filecoin's retrieval market built with IPFS-addressable data.<br> | Video<br>Slides |
+| 14:35 | break |  |  | Video<br>Slides |
+| 14:40 | Pinset orchestration with IPFS Cluster | Héctor Sanjuán (Protocol Labs) | IPFS Cluster makes distributing a pinset across an scalable set of Kubo peers easy.<br>In this talk, we will explore the basic features, setup and monitoring for home and<br>production deployments.<br> | Video<br>Slides |
+| 15:15 | break |  |  | Video<br>Slides |
+| 15:20 | What Kubernetes Operators Do That Regular Deployments Do Not | Oleg Silkin (Red Hat) | By the end of this talk  users will know how Kubernetes Operators can improve their<br>experience with deploying large-scale applications in their clusters. Attendees will<br>also learn how IPFS Cluster leverages the Operator SDK in order to easily perform<br>horizontal scaling of Web3 storage. <br> | Video<br>Slides |
+| 15:55 | break |  |  | Video<br>Slides |
+| 16:00 | Elastic IPFS -- The scales are off the charts! | Alan Shaw (Protocol Labs) | What even is Elastic IPFS and how much stretch does it have? THIS is the story of the<br>brand new multi tenant IPFS implementation that runs in the cloud, separates read and<br>write pipelines to really, truly achieve web scale beyond anything this world has even<br>seen before.<br> | Video<br>Slides |
+| 16:35 | break |  |  | Video<br>Slides |
+| 16:40 | IPFS Service Panel |  | Panel discussion of gateway operators, pinning services, and others who operate IPFS<br>services.<br> | Video<br>Slides |
 
-10:00	Sara Freenan (Consensys)	Build the web we want
-Recently, we deprecated our public gateway and it came to light that creators had been using our public gateway url, along with the CID, in their NFT metadata, instead of using the CID.
-
-I would like to take this opportunity to remind people that IPFS is about building a decentralised web that is not beholden to one company or organisation. CIDs are content identifiers, not resource locators. The beauty of the protocol is that the content can be found on the network using the CID via the cooperation of the node providers, and the built in redundancy of the protocol.
-
-The decentralised and resilient web we want will rely on people embedding these new patterns into whatever they create and build on top of the protocol and we at Infura want to help in whatever way we can.
-
-
-10:35		break
-
-10:40	Matt Ober (Pinata)	Protecting IPFS gateways at scale
-IPFS gateways are an important portal into the IPFS network, but running publicly accessible IPFS gateways comes with great risk and responsibility. In this talk Matt will discuss common challenges that IPFS gateway operators will encounter and how Pinata has solved for them.
-
-
-11:15		break
-
-11:20	Thibault Meunier (Cloudflare)	Secure your IPFS website
-For wallets, decentralized exchanges, DeFi insurer, or DAO management, most IPFS applications are relying on HTTP. This setup allows applications to be accessible by current web users, with minimal modifications. It also enables developers to leverage common web engineering practice. However, these HTTP endpoints have to be secured, and trust provided by the decentralized-network has to be carried to end-users. HTTPS is not enough. This talk will present the setup of a browser based IPFS app.
-
-
-11:55		break
-
-12:00	Mario Camou (Protocol Labs)	IPFS gateway
-Words of the wise. On growing and building one of the busiest IPFS gateways in the world.
-
-
-12:40	Mahmoud Shehata (fleek)	Fleek Network - Decentralized Content and Application Delivery Network
-
-13:00		Lunch
-
-14:00	Ansgar Grunseid (saturn)	Introducing Saturn, web3 CDN
-Saturn is a Web3 CDN in Filecoin's retrieval market built with IPFS-addressable data.
-
-
-14:35		break
-
-14:40	Héctor Sanjuán (Protocol Labs)	Pinset orchestration with IPFS Cluster
-IPFS Cluster makes distributing a pinset across an scalable set of Kubo peers easy. In this talk, we will explore the basic features, setup and monitoring for home and production deployments.
-
-
-15:15		break
-
-15:20	Oleg Silkin (Red Hat)	What Kubernetes Operators Do That Regular Deployments Do Not
-By the end of this talk users will know how Kubernetes Operators can improve their experience with deploying large-scale applications in their clusters. Attendees will also learn how IPFS Cluster leverages the Operator SDK in order to easily perform horizontal scaling of Web3 storage.
-
-
-15:55		break
-
-16:00	Alan Shaw (Protocol Labs)	Elastic IPFS -- The scales are off the charts!
-What even is Elastic IPFS and how much stretch does it have? THIS is the story of the brand new multi tenant IPFS implementation that runs in the cloud, separates read and write pipelines to really, truly achieve web scale beyond anything this world has even seen before.
-
-
-16:35		break
-
-16:40		IPFS Service Panel
-Panel discussion of gateway operators, pinning services, and others who operate IPFS services.
 ## Content:
-
-## Recording:

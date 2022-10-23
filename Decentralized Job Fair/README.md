@@ -4,6 +4,6 @@ Whether you are looking for a new role, hiring for your project, or simply want 
 
 ## Track Schedule
 
-## Content:
+17:00 - 19:00
 
-## Recording:
+## Content:

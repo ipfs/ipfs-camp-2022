@@ -1,31 +1,19 @@
-
 # libp2p Day
 
 The first ever libp2p Day: a gathering for libp2p builders, contributors, and maintainers!
 
 ## Track Schedule
-Schedule
 
-|TIME|SPEAKER|INFO|
-|----|------|-----|
-|10:00|	Marco Munizaga              |	Intro to libp2p: helping with real world application problems
-|10:25|	Steve Loeppky               |	A month in PL EngRes libp2p Development and how you can be involved
-|10:45|	Marten Seemann              |	Browser connectivity state of the union and demo
-|11:15|	Ryan Plauche & Max Inden    |	Why WebRTC
-|11:35|	Dennis Trautwein            |	Hole Punching
-|12:10|	Tanguy Cizain               |	libp2p in Nim
-|12:35|	Laurent Senta               |	Testground + libp2p
-|13:00| Lunch Break                 |
-|14:00|	Cayman Nava                 |	Intro to Lodestar
-|14:20|	Gorka Ludlow                | WebRTC signalling data over QR codes
-|14:40|	Ankit Kumar                 |	Formal Analysis of GossipSub"
-|15:00|	Elliott Frisch              |	How Pyrsia is using libp2p to take over the world
-|15:20|	Max Inden                   |	DOS defense - do’s and dont’s
-|15:40|	Open Unconf Slot            |
-|16:00|	Petar Maymounkov            |	The power of two choices – Why the Kademlia binary tree isn’t balanced and what we can do about it
-|16:20|	Open Unconf Slot            |
-|16:40|	Open Unconf Slot            |
+| Start Time | Topic | Speaker | Description | Recording |
+| :------:   | :---- | :-----: | :---------- | :-------: |
+| 10:00 | Intro to libp2p: helping with real world application problems | Marco Munizaga |  | Video<br>Slides |
+| 10:25 | A month in PL EngRes libp2p Development and how you can be involved | Steve Loeppky |  | Video<br>Slides |
+| 10:45 | Browser connectivity state of the union and demo | Marten Seemann |  | Video<br>Slides |
+| 11:15 | Why WebRTC | Max Inden |  | Video<br>Slides |
+| 11:40 | Hole Punching | Dennis Trautwein |  | Video<br>Slides |
+| 12:05 | nim-libp2p | Tanguy Menduist |  | Video<br>Slides |
+| 12:30 | Testground + libp2p | Laurent Senta |  | Video<br>Slides |
+| 13:00 | Lunch Break |  |  | Video<br>Slides |
+| 14:00 | Unconference |  | A libp2p Unconference! | Video<br>Slides |
 
 ## Content:
-
-## Recording:
