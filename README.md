@@ -117,7 +117,7 @@ Demos of how IPFS can save bandwidth and increase flexibility. Talks about direc
 | TBD | TBD| TBD | TBD |
 
 
-## [Browsers](Browsers) // YouTube Playlist (Will be linked after recordings are created)
+## [Browsers & Platforms](Browsers%20&%20Platforms) // YouTube Playlist (Will be linked after recordings are created)
 Learn the current status, ongoing challenges, and upcoming work to integrate IPFS and related technologies into browsers and the web itself.
 | Topic | Speaker | Description | Recording |
 | :---- | :---: | :---------- | :-------- |
