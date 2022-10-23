@@ -35,27 +35,27 @@ We are excited to welcome our community to Lisbon, Portugal for 3 days of learni
 
 ## Tracks
 
-### [Content Routing](Content%20Routing) // YouTube Playlist (Will be linked after recordings are created)
+### [Content Routing](Content%20Routing)
 Approaches and protocols to content routing in IPFS, what we've learned so far, and talks about possible directions for the future.
 
 
-### [Data Transfer](Data%20Transfer) // YouTube Playlist (Will be linked after recordings are created)
+### [Data Transfer](Data%20Transfer)
 Getting and sending content. Moving data across the wire.
 
 
-### [Compute over Data](Compute%20over%20Data) // YouTube Playlist (Will be linked after recordings are created)
+### [Compute over Data](Compute%20over%20Data)
 Producing data without leaving the Merkle Forest -- How do we do it?  How do we make it manageable at scale?  How do we make the results useful and discoverable?  In this track, see what others are up to, and share your own dreams!
 
 
-### [Libp2p Day](Libp2p%20Day) // YouTube Playlist (Will be linked after recordings are created)
+### [Libp2p Day](Libp2p%20Day)
 The first ever libp2p Day: a gathering for libp2p builders, contributors, and maintainers!
 
 
-### [IPFS for Creatives](IPFS%20for%20Creatives) // YouTube Playlist (Will be linked after recordings are created)
+### [IPFS for Creatives](IPFS%20for%20Creatives)
 Calling all creators! This is the first ever IPFS sponsored track for content creators (and supporters!) of all types. Come meet other creatives, learn from other artists and experts in the web3 space, and be one of the first to join our growing community.
 
 
-### [IPFS Implementations](IPFS%20Implementations) // YouTube Playlist (Will be linked after recordings are created)
+### [IPFS Implementations](IPFS%20Implementations)
 A wave of new IPFS implementations has grown in the past year. Meet the teams taking IPFS to the next level and find your on-ramp to working on the protocol
 
 
