@@ -9,31 +9,21 @@
 
 Welcome to IPFS Camp 2022!
 
-We are excited to welcome our community to Lisbon, Portugal for 3 days of learning and growing together. This repository will be used as a record of the conference, storing schedules, links to talk resources (decks, videos), and other such content.
+We are excited to welcome this community to Lisbon, Portugal for 3 days of learning and growing together. This repository will be used as a record of the conference, with links to resources such as videos & slides.
 
 # Camp Content
 
-## 👨‍🚀 👩‍🚀 Keynotes // YouTube Playlist (Will be linked after recordings are created)
-| Title | Speaker(s) | Description | Recording |
+## 👨‍🚀 👩‍🚀 Keynotes (Day 1: Oct 28) // [YouTube Playlist](https://www.youtube.com/playlist?list=PLuhRWgmPaHtTQlocvCwd0gamK3ZgdRX0_)
+| Title | Speaker(s) | Description | Links |
 | :---- |  :-------- |  :-------- | :-------- |
-|Welcome|Mosh and Dietrich|Welcome, CoC, who are we even, why are we here, PLN Lab Week, schedule for today and all of camp, choose your own adventure, where are the bathrooms|TBD|
-|State of IPFS|Molly Mackinlay (@momack2)|Short overview of the state of the IPFS world by the numbers, highlighting the major events or phases since IPFS Camp 2019 (eg NFTsplosion, implementers summit) and share ecosystem numbers to illustrate the growth since then - nodes, DHT traffic, gateway traffic, contributions.|TBD|
-|IPFS Applications Showcase|TBD|Three IPFS applications show off what they've built and share the critical needs the protocol and implementations must deliver on in order to succeed.|TBD|
-|Decentralization and Human Rights Showcase|TBD|Three projects that use IPFS to improve information access & preservation to benefit human knowledge and human rights.|TBD|
-|IPFS Implementations|TBD|Lightning talks from the lead maintainers of key IPFS implementations on the current state and future of each, followed by a short panel discussion on what's needed most and the challenges of implementation and maintainership.|TBD|
-|IPFS Fund Announcement|TBD|Learn about a new funding effort to expand IPFS implementations into new and different areas and support broad ecosystem initiatives such as education, developer tooling and more.|TBD|
-|Track-o-Rama|Everyone|With over 15 tracks and a choose-your-own adventure format, how will you choose? In this session, track leads will give a 60-|TBD|
-|Voice Gems: A 1000 Year Archive|Harry Yeff|In 2020 Harry Yeff and Trung Bao set out to preserve a set of human voices for 1000 years, a feat that evokes many challenges and questions. In this talk & performance, artist and technologist Harry Yeff (Reeps100) showcases his portfolio of speed-of-light radio transmission, AI synthetic voices and how emerging technologies provide an artistically explosive and vital discussion on new methods of preservation.|TBD|
-|Fireside chat with Juan & TBL|Juan Benet, Sir Tim Berners Lee|The inventor of the World Wide Web and the inventor of IPFS will share their thoughts on the opportunities and challenges of the internet of today and what it needs to thrive for another three decades.|TBD|
-|WHY we are here|TBD|Kick off IPFS Camp by grounding us in a concrete use-case with critical impact - a political / archiving / censorship speaker who energises and imbues all our work with importance and purpose.|TBD|
-|Technical architecture future/vision|- Brooke (Fission)<br>- Juan (PL)<br>- Andrew Hill (Textile)<br>- B5 (number0)<br>- Mikeal (PL)|The IPFS world looks really different from IPFS Camp 2019. How will it look at IPFS 2025 and what do we need to do to get there?|TBD|
-|Panel: IPFS Apps - showcase x3|TBD|Lightning talks from three application builders with diverse use cases and strong technical foundations - eg messaging, gaming, archiving, publishing, followed by a short panel discussion discussing architectural patterns, adoption strategies, your first 100 users, etc.|TBD|
-|David vs Goliath - showcase x3|TBD|Lightning talks from three builders taking on massive incumbents or massive challenges, followed by a short panel discussion about strategy, impact and how to "keep calm, steady on" in the face of such large challenges. Examples: identity, space, browsers, publishing, compute, smartphones|TBD|
-|Identity showcase|TBD|Three identity approaches using IPFS, followed by panel on use-cases and challenges|TBD|
-|NFTs showcase|TBD|Three NFT platforms, followed by panel on benefits and challenges re IPFS|TBD|
-
-
-## Tracks
+|Welcome|Mosh Lee and Dietrich Ayala (Protocol Labs)|Welcome to IPFS Camp and overview of the Keynotes session!|[Video](https://www.youtube.com/watch?v=yIbZUi7cTX8&list=PLuhRWgmPaHtTQlocvCwd0gamK3ZgdRX0_) <br/> [Slides](https://docs.google.com/presentation/d/16_a-OnZ32xS5vjVvVEM2WB4OvquhAcHSafsmno3LbrY/edit#slide=id.g1783b2f697b_2_11)|
+|The State of the IPFS Ecosystem|Molly Mackinlay (Protocol Labs)|Short overview of the state of the IPFS world by the numbers, highlighting major events and network growth from the past few years.|[Video](https://www.youtube.com/watch?v=fGwhPLik3_4&list=PLuhRWgmPaHtTQlocvCwd0gamK3ZgdRX0_) <br/> [Slides](https://docs.google.com/presentation/d/16_a-OnZ32xS5vjVvVEM2WB4OvquhAcHSafsmno3LbrY/edit#slide=id.g12b77ef2beb_0_18)|
+|Decentralization and Human Rights Panel|Jonathan Dotan (Starling Lab), Phoebe Poon (Liker Land), |In this session, we'll hear from 3 speakers across 3 continents who use IPFS for human rights documentation and censorship resistance, energizing and imbuing all our work with purpose.|[Video](https://www.youtube.com/watch?v=0gbMYNEIVZ8&list=PLuhRWgmPaHtTQlocvCwd0gamK3ZgdRX0) <br /> [Slides](https://docs.google.com/presentation/d/16_a-OnZ32xS5vjVvVEM2WB4OvquhAcHSafsmno3LbrY/edit#slide=id.g12b77ef2beb_0_63)|
+|IPFS Applications Showcase|Jay Graber (Bluesky), Manos (WeatherXM), Francis (Omnilingo)|Three IPFS applications show off what they've built and share the critical needs the protocol and implementations must deliver on in order to succeed.|[Video](https://www.youtube.com/watch?v=wzowGDUMC_g&list=PLuhRWgmPaHtTQlocvCwd0gamK3ZgdRX0) <br /> [Slides](https://docs.google.com/presentation/d/16_a-OnZ32xS5vjVvVEM2WB4OvquhAcHSafsmno3LbrY/edit#slide=id.g12b77ef2beb_0_53)|
+|IPFS Implementations|Gus Eggert (kubo), Brendan O'Brien (Iroh), Alan Shaw (Elastic IPFS), Alex Potsides (js-ipfs), Juan Benet (IPFS inventor)|Lightning talks from the lead maintainers of key IPFS implementations on the current state and future of each, followed by a look forward the future from IPFS inventor Juan Benet.|[Video](https://www.youtube.com/watch?v=HRYREdsLt5k&list=PLuhRWgmPaHtTQlocvCwd0gamK3ZgdRX0) <br /> [Slides](https://docs.google.com/presentation/d/16_a-OnZ32xS5vjVvVEM2WB4OvquhAcHSafsmno3LbrY/edit#slide=id.g12b77ef2beb_0_82)|
+|IPFS Fund Announcement|Dietrich Ayala, Juan Benet, Mosh Lee|Learn about a new funding effort to expand IPFS implementations into new and different areas and support broad ecosystem initiatives such as education, developer tooling, and more.|[Video](https://www.youtube.com/watch?v=dBnmUiKc3P0&list=PLuhRWgmPaHtTQlocvCwd0gamK3ZgdRX0) <br /> [Slides](https://docs.google.com/presentation/d/16_a-OnZ32xS5vjVvVEM2WB4OvquhAcHSafsmno3LbrY/edit#slide=id.g17806b07603_3_15)|
+|Track-o-Rama|All track leads|With over 15 tracks and a choose-your-own adventure format, how will you choose? In this session, you'll hear 60-second pitches from each track.|[Video](https://www.youtube.com/watch?v=O7sRMO1UpTE&list=PLuhRWgmPaHtTQlocvCwd0gamK3ZgdRX0)|
+|Voice Gems: A 1000 Year Archive|Harry Yeff (Reeps100)|In 2020 Harry Yeff and Trung Bao set out to preserve a set of human voices for 1000 years, a feat that evokes many challenges and questions. In this talk & performance, artist and technologist Harry Yeff (Reeps100) showcases his portfolio of speed-of-light radio transmission, AI synthetic voices and how emerging technologies provide an artistically explosive and vital discussion on new methods of preservation.|[Video](https://www.youtube.com/watch?v=SumKPB7VUDA&list=PLuhRWgmPaHtTQlocvCwd0gamK3ZgdRX0)|
 
 ### [Content Routing](Content%20Routing)
 Approaches and protocols to content routing in IPFS, what we've learned so far, and talks about possible directions for the future.
@@ -88,7 +78,7 @@ Learn the current status, ongoing challenges, and upcoming work to integrate IPF
 
 
 ### [Decentralized Job Fair](Decentralized%20Job%20Fair)
-Whether you are looking for a new role, hiring for your project, or simply want to learn more about open source projects that you can contribute to, the Decentralized Job Fair is for you.  Please sign up here if you are wanting to attend: https://lu.ma/ipfscamp22.jobfair
+Whether you are looking for a new role, hiring for your project, or simply want to learn more about open source projects that you can contribute to, the Decentralized Job Fair is for you. Please sign up at: https://lu.ma/ipfscamp22.jobfair
 
 
 ### [IPFS Operators & Enterprise](IPFS%20Operators%20&%20Enterprise)
@@ -105,12 +95,10 @@ Check out [our community page](https://docs.ipfs.tech/community/) for all the wa
 
 ### Photos and Media
 
-For 📸 Photos, join our **INSERT HOW TO SEE PHOTOS HERE**
-
-You can upload photos, videos, documents, etc. at **INSERT HOW TO CONTRIBUTE HERE**
+For 📸 Photos, head to **INSERT HOW TO SEE PHOTOS HERE**
 
 ## Schedule Overview
 
 The schedule for the event can be found at **https://2022.ipfs.camp/#schedule**
 
-Join other campers and chat on the [IPFS Camp Slack](https://join.slack.com/t/ipfs-camp/shared_invite/zt-1gh6dc0ua-T0oVLSHNkvteGheH7cyiDg)!
+Join other campers and stay connected on the [IPFS Camp Slack](https://join.slack.com/t/ipfs-camp/shared_invite/zt-1gh6dc0ua-T0oVLSHNkvteGheH7cyiDg)!
