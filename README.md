@@ -69,10 +69,10 @@ The first ever libp2p Day: a gathering for libp2p builders, contributors, and ma
 ### [Libp2p Privacy](Libp2p%20Privacy)
 Dive into the current privacy work happening on libp2p and get the chance to provide feedback on direction and next steps and hear from experts in the field.
 
-### [Lightning Talks Session 1](Lightning-Talks-1)
+### [Lightning Talks Session 1](Lightning%20Talks%20Session%201)
 Hear a fantastic lineup of 15-minute talks covering a range of IPFS-related topics!
 
-### [Lightning Talks Session 2](Lightning-Talks-2)
+### [Lightning Talks Session 2](Lightning%20Talks%20Session%202)
 Hear a fantastic lineup of 15-minute talks covering a range of IPFS-related topics!
 
 ## Wanna join the Community Conversation?
