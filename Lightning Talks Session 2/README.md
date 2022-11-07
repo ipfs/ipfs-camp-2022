@@ -5,6 +5,8 @@ An exciting set of 15-minute talks on topics spanning the breadth of the IPFS Ec
 *(note: the last talk on ComposeDB is longer)*
 
 ## Track Schedule
+As each lightning talk started as soon as the previous talk ended, the times in the original schedule did not end up being accurate. 
+
 | Topic | Speaker | Recording |
 | :---: | :-----: | :-------: |
 | Data for Degens | Techie Tee | [Video](https://www.youtube.com/watch?v=VvsBq0IXYW4&list=PLuhRWgmPaHtQkLjEcIlywENb7UkTKp1BT&index=1) <br/> [Slides](https://docs.google.com/presentation/d/1ENh5OMYWc0xWxVcI09mPqfWZR57iYamJnpX6xS9MOSw/edit#slide=id.g14d25db42f8_0_0) |
