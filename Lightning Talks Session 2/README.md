@@ -1,17 +1,14 @@
 
-# Lightning Talks Session 1
+# Lightning Talks Session 2
 
 An exciting set of 15-minute talks on topics spanning the breadth of the IPFS Ecosystem.
-*(note: the last talk on ComposeDB is longer)*
 
 ## Track Schedule
-As each lightning talk started as soon as the previous talk ended, the times in the original schedule did not end up being accurate. 
-
 | Topic | Speaker | Recording |
 | :---: | :-----: | :-------: |
-| Data for Degens | Techie Tee | [Video](https://www.youtube.com/watch?v=VvsBq0IXYW4&list=PLuhRWgmPaHtQkLjEcIlywENb7UkTKp1BT&index=1) <br/> [Slides](https://docs.google.com/presentation/d/1ENh5OMYWc0xWxVcI09mPqfWZR57iYamJnpX6xS9MOSw/edit#slide=id.g14d25db42f8_0_0) |
-| Interplanetary Mind Map:<br/>A Protocol For Upgrading Natural Language  | Xavi Vives | [Video](https://www.youtube.com/watch?v=H9TudZ_fC3o&list=PLuhRWgmPaHtQkLjEcIlywENb7UkTKp1BT&index=2) <br/> [Slides](https://docs.google.com/presentation/d/1ENh5OMYWc0xWxVcI09mPqfWZR57iYamJnpX6xS9MOSw/edit#slide=id.g179e3812a9b_1_121) |
-| Unstoppable Front-Ends With IPFS:<br/>Cybersquirrel Case Study| Hugo Montenegro | [Video](https://www.youtube.com/watch?v=crVXwZpirvk&list=PLuhRWgmPaHtQkLjEcIlywENb7UkTKp1BT&index=3) <br/> [Slides](https://docs.google.com/presentation/d/1ENh5OMYWc0xWxVcI09mPqfWZR57iYamJnpX6xS9MOSw/edit#slide=id.g14d25db42f8_0_22) |
-| What if the European Open Science Cloud ran on libp2p?| Moritz Schubotz | [Video](https://www.youtube.com/watch?v=gysw6kXcmv4&list=PLuhRWgmPaHtQkLjEcIlywENb7UkTKp1BT&index=4) <br/> [Slides](https://docs.google.com/presentation/d/1ENh5OMYWc0xWxVcI09mPqfWZR57iYamJnpX6xS9MOSw/edit#slide=id.g179bffa56c0_4_42) |
-| NIIIFTY: Data Reliability for the Cultural Heritage Sector using IPFS | Edward Silverton | [Video](https://www.youtube.com/watch?v=B-lfqYANfrw&list=PLuhRWgmPaHtQkLjEcIlywENb7UkTKp1BT&index=5) <br/> [Slides](https://docs.google.com/presentation/d/1ENh5OMYWc0xWxVcI09mPqfWZR57iYamJnpX6xS9MOSw/edit#slide=id.g14d25db42f8_0_31) |
-| Compose DB: Composable Data on Ceramic | Alex Wilhelm,<br/>Artur Wdowiarski | [Video](https://www.youtube.com/watch?v=gLrCmQkBtGY&list=PLuhRWgmPaHtQkLjEcIlywENb7UkTKp1BT&index=6) <br/>  |
+| The Future of Decentralized Publishing | Phoebe Poon | [Video](https://www.youtube.com/watch?v=wMVP1Gw0UzI&list=PLuhRWgmPaHtQ2w6a7Y-n6PP9M_8pCvIiq&index=1) <br/> [Slides](https://docs.google.com/presentation/d/10Lxfcgav6oqbNLly5sXmdEnfxPSjRJ3OYznYe6FvmTU/edit#slide=id.g14d25db42f8_0_0) |
+| Consistent Distributed Systems | Denny Portillo | [Video](https://www.youtube.com/watch?v=LCNFA3dLDIk&list=PLuhRWgmPaHtQ2w6a7Y-n6PP9M_8pCvIiq&index=2) <br/> [Slides](https://docs.google.com/presentation/d/10Lxfcgav6oqbNLly5sXmdEnfxPSjRJ3OYznYe6FvmTU/edit#slide=id.g14d25db42f8_0_26) |
+| Building scaleable databases on IPFS | Marcus Pousette,<br/>Erik Allberg | [Video](https://www.youtube.com/watch?v=WH03zVJ3U8s&list=PLuhRWgmPaHtQ2w6a7Y-n6PP9M_8pCvIiq&index=3) <br/> [Slides](https://docs.google.com/presentation/d/10Lxfcgav6oqbNLly5sXmdEnfxPSjRJ3OYznYe6FvmTU/edit#slide=id.g178e6a37261_0_10) |
+| IPFS Search | Mathijs de Bruin,<br/>Frido Emans | [Video](https://www.youtube.com/watch?v=88rb83EftjU&list=PLuhRWgmPaHtQ2w6a7Y-n6PP9M_8pCvIiq&index=4) <br/> [Slides](https://docs.google.com/presentation/d/10Lxfcgav6oqbNLly5sXmdEnfxPSjRJ3OYznYe6FvmTU/edit#slide=id.g178e6a37261_4_0) |
+| Pando: Evolution of IPFS/Filecoin to Open Data Lakes | Taosheng Shi |[Video](https://www.youtube.com/watch?v=Ueu-FNgrzXY&list=PLuhRWgmPaHtQ2w6a7Y-n6PP9M_8pCvIiq&index=5) |
+| Unlocking Web 3 Social Networks with IPFS | Sneha Mishra |[Video](https://www.youtube.com/watch?v=CJ45R8WUsKU&list=PLuhRWgmPaHtQ2w6a7Y-n6PP9M_8pCvIiq&index=6) |
