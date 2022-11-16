@@ -44,7 +44,7 @@ Approaches and protocols to content routing in IPFS, what we've learned so far, 
 ### [Data Transfer](Data%20Transfer)
 Getting and sending content. Moving data across the wire.
 
-### [IPFS 201: Design Patterns & Developer Tools](IPFS%20201%20Design%20Patterns%20&%20Developer%20Tools)
+### [IPFS 201: Design Patterns & Developer Tools](./IPFS%20201%20Design%20Patterns%20%26%20Develops%20Tools/README.md)
 Workshops, demos, and an expert panel covering IPFS app architectures, developer tools design patterns, developer experience and everything you need to know to build and deploy robust production-grade content-addressed apps.
 
 ### [IPFS Operators & Enterprise](IPFS%20Operators%20&%20Enterprise)
